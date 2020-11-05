@@ -8,6 +8,7 @@ authors = ["google", "Nam Nguyen namnguyen@google.com"]
 homepage = "https://github.com/TheTerminalTemplar/compynator"
 repository = "https://github.com/TheTerminalTemplar/compynator"
 keywords = ["parser", "functional", "parser combinator", "python"]
+documentation = "https://compynator.readthedocs.io"
 
 [tool.poetry.dependencies]
 python = "^3.6"

@@ -12,6 +12,12 @@ Compynator
 .. |PyPi| image:: https://img.shields.io/pypi/v/compynator.svg
    :target: https://pypi.org/project/compynator/
 
+|Read the Docs|
+
+.. |Read the Docs| image:: https://readthedocs.org/projects/compynator/badge/
+   :target: https://compynator.readthedocs.io/
+
+
 Introduction
 ============
 
