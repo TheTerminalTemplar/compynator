@@ -2,6 +2,11 @@
 Compynator
 ==========
 
+|Tests|
+
+.. |Tests| image:: https://github.com/TheTerminalTemplar/compynator/workflows/Tests/badge.svg
+   :target: https://github.com/TheTerminalTemplar/compynator/actions?workflow=Tests
+
 Introduction
 ============
 
