@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "compynator"
-version = "0.1.1"
+version = "0.1.2"
 description = "A pure Python implementation of parser combinators with asymptotically best performance and support for context-sensitive or ambiguous grammars."
 license = "Apache-2.0"
 readme = "README.rst"
