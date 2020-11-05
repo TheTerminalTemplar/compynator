@@ -9,8 +9,8 @@ Compynator
 
 |PyPi|
 
-.. |PyPi| image:: https://img.shields.io/pypi/v/hypermodern-python.svg
-   :target: https://pypi.org/project/hypermodern-python/
+.. |PyPi| image:: https://img.shields.io/pypi/v/compynator.svg
+   :target: https://pypi.org/project/compynator/
 
 Introduction
 ============
